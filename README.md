@@ -1,5 +1,5 @@
-# naive_bayes
-smooth with m-estimate and laplace smoothing
+# Naïve_Bayes
+smooth with m-estimate and Laplace-estimate methods
 
 please go to [file-link](https://drive.google.com/open?id=1S49_y2rqE1noMyE9CHdxTroPZXhkjAuA)   
 or  
